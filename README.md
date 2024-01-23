@@ -20,3 +20,4 @@ worked on by me
 
 MIT
 
+![Screenshot (18)](https://github.com/elimendo/wrk-schedule/assets/148833152/4258acc7-de7b-4c76-b09d-e1cd5c6bdcfd)
